@@ -12,29 +12,29 @@ Any Problems in Virtual Tel Me Fell Free https://www.facebook.com/Shohag.HyperFo
 
 How to use the git tools!
 
-#1. apt update
+apt update
 
-#2. apt upgrade
+apt upgrade
 
-#3. termux-setup-storage
+termux-setup-storage
 
-#4. pkg install python2
+pkg install python2
 
-#5. pkg install git
+pkg install git
 
-#6. pip2 install mechanize
+pip2 install mechanize
 
-#7. pip2 install requests
+pip2 install requests
 
-#8. git clone https://github.com/shohag7800h/hst
+git clone https://github.com/shohag7800h/hst
 
-#9. ls
+ls
 
-#10. cd hst
+cd hst
 
-#11. chmod +x *
+chmod +x *
 
-#12. python2 hst.py
+python2 hst.py
 
 ok you are success
 
