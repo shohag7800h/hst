@@ -9,16 +9,16 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/binyamin-binni/bxi.git
+git clone https://github.com/shohag7800h/hst.git
 
 # Usage
 
-cd bxi
+cd hst
 
-python2 bxi.py
+python2 hst.py
 
 
 # Note
 If you have already installed old version of BXI then remove it by entering this command
 
-rm -rf bxi
+rm -rf hst
